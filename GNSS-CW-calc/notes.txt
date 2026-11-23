@@ -1,0 +1,22 @@
+normal_position = np.array([
+    3956242.02207866,
+    -109260.12059223518,
+    4985101.631832214
+])
+
+scintillation_position = np.array([
+    3956222.2879086602,
+    -109256.53073905311,
+    4985101.428721173
+])
+
+normal coordinates = Lat(51.74065083), long(−1.581943905), height(147.0910327)
+
+scint  coordinates = Lat(51.74078961), long(-1.581899842), height(134.6550225)
+
+
+Coordinate differences (m): [-19.73417      3.58985318  -0.20311104]
+
+
+For full code documents, please visit the following GitHub link
+https://github.com/Karan-Singh16/GNSS-Calculations
